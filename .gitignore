@@ -9,3 +9,4 @@ src/main/resources/database.properties
 .vscode/
 *.log
 *.tmp
+out/
