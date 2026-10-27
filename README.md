@@ -1,5 +1,9 @@
 # GestionAp
 
+> **Esta es la versión inicial (1.º de DAM).** La versión actual, con 15 pantallas, rentabilidad, PDF y 189 tests, es **[GestionAp PRO](https://github.com/nelsongomezsa/gestionAPPRO)**.
+>
+> **English summary:** First version of GestionAp, a JavaFX + MySQL desktop app to manage shared-flat room rentals (rooms, tenants and contracts), built for the first year of the DAM diploma. The current, extended version is GestionAp PRO.
+
 Proyecto Intermodular de 1º DAM · Prometeo by The Power
 
 Aplicación de escritorio para gestionar el alquiler de habitaciones en pisos compartidos, desarrollada en Java con conexión a base de datos MySQL.
